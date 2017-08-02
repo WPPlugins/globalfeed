@@ -1,0 +1,19 @@
+.add_feed{
+    
+}
+.add_feed input{
+    width:250px;
+}
+.add_feed a{
+    margin-left:5px;
+}
+#feed_list{
+    vertical-align: top;
+}
+#feed_list tr{
+    border-bottom: 1px solid #CCCCCC;
+    display: block;
+}
+#feed_list .feed_description{
+    width:249px;
+}

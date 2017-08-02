@@ -1,0 +1,28 @@
+#fb_obj_confirm{
+    display: inline;
+    display: inline-block;
+    background:none;
+}
+#fb_obj_confirm h4{
+    margin-bottom: 0;
+    text-align: center;
+}
+#fb_obj_confirm #confirm_buttons{
+    text-align: center;
+}
+.fb_obj{
+    position:relative;
+    min-height: 50px;
+}
+.fb_obj img{
+    position:absolute;
+    left:0px;
+    max-width: 50px;
+}
+.fb_obj .obj_info{
+    margin-left:56px;
+}
+.fb_obj .description{
+    margin-top:10px;
+    max-width: 300px;
+}

@@ -1,0 +1,21 @@
+/* 
+    Document   : style
+    Created on : May 5, 2012, 1:08:46 PM
+    Author     : Mikester
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+div#globalfeed-container.globalfeed-container article.hentry{
+    padding:0.5em 0.1em;
+}
+.format-status .mbgf-entry-title{
+    display:none;
+}
+a.twitter_user{
+    text-decoration: none;
+}
+a.twitter_user span:hpver {
+    text-decoration: underline;
+}

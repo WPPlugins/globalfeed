@@ -1,0 +1,26 @@
+#yt_usr_confirm{
+    display: inline;
+    display: inline-block;
+    background:none;
+}
+#yt_usr_confirm h4{
+    margin-bottom: 0;
+    text-align: center;
+}
+#yt_usr_confirm #confirm_buttons{
+    text-align: center;
+}
+.yt_usr{
+    position:relative;
+    min-height: 50px;
+}
+.yt_usr img{
+    float:left;
+}
+.yt_usr .obj_info{
+    margin-left:100px;
+}
+.yt_usr .description{
+    margin-top:10px;
+    max-width: 300px;
+}
